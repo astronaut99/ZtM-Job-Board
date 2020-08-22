@@ -16065,6 +16065,22 @@ export const data = {
         state: "",
         country: "Nigeria",
       },
+        {
+      id: uuidv4(),
+      name: "Rakshit Kumar",
+      img: "https://github.com/astronaut99/je-te-deteste/blob/master/images/Rakshit.jpeg",
+      links: {
+        website: "",
+        linkedin: "www.linkedin.com/in/rakshitkumar90",
+        github: "https://github.com/astronaut99"
+      },
+      jobTitle: "Full Stack Developer",
+      location: {
+        city: "Lucknow",
+        state: "Uttar Pradesh",
+        country: "India"
+      }
+     }
     },
   ],
 }
